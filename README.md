@@ -16,3 +16,4 @@ f
 3
 2
 1
+angabe 11, bearbeitet und gepullt
